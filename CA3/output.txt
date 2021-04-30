@@ -1,0 +1,20 @@
+rank : rank : 9 n_per_proc : 10
+rank : 4 n_per_proc : 10
+rank : rank : rank : rank : rank : rank : 3 n_per_proc : 10
+6 n_per_proc : 10
+0 n_per_proc : 10
+rank : 1 n_per_proc : 10
+8 n_per_proc : 10
+5 n_per_proc : 10
+7 n_per_proc : 10
+2 n_per_proc : 10
+rank final = 8	u__old[80] = 1.6806	u__old[82] = 1.7123	u__old[84] = 1.7427	u__old[86] = 1.7739	u__old[88] = 1.8059	u__old[90] = 1.8426	
+rank final = 0	u__old[0] = 1	u__old[2] = 1.0217	u__old[4] = 1.0261	u__old[6] = 1.0313	u__old[8] = 1.0373	u__old[10] = 1.0442	
+rank final = 6	u__old[60] = 1.4306	u__old[62] = 1.4599	u__old[64] = 1.4839	u__old[66] = 1.5087	u__old[68] = 1.5343	u__old[70] = 1.5686	
+rank final = 9	u__old[90] = 1.8242	u__old[92] = 1.8573	u__old[94] = 1.8913	u__old[96] = 1.9261	u__old[98] = 1.9617	u__old[100] = 2	
+rank final = 2	u__old[20] = 1.0794	u__old[22] = 1.1039	u__old[24] = 1.1151	u__old[26] = 1.1271	u__old[28] = 1.1399	u__old[30] = 1.1694	
+rank final = 7	u__old[70] = 1.5494	u__old[72] = 1.5799	u__old[74] = 1.6071	u__old[76] = 1.6351	u__old[78] = 1.6639	u__old[80] = 1.6994	
+rank final = 1	u__old[10] = 1.0226	u__old[12] = 1.0459	u__old[14] = 1.0539	u__old[16] = 1.0627	u__old[18] = 1.0723	u__old[20] = 1.1006	
+rank final = 4	u__old[40] = 1.2302	u__old[42] = 1.2571	u__old[44] = 1.2747	u__old[46] = 1.2931	u__old[48] = 1.3123	u__old[50] = 1.3442	
+rank final = 5	u__old[50] = 1.3242	u__old[52] = 1.3523	u__old[54] = 1.3731	u__old[56] = 1.3947	u__old[58] = 1.4171	u__old[60] = 1.4502	
+rank final = 3	u__old[30] = 1.1486	u__old[32] = 1.1743	u__old[34] = 1.1887	u__old[36] = 1.2039	u__old[38] = 1.2199	u__old[40] = 1.2506	
